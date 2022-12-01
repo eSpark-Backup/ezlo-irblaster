@@ -1,0 +1,17 @@
+Green & RED LED tested OK.
+Serial interface tested OK.
+IR receiver tested OK.
+Switch, tested OK.
+IR LED current, OK 85mA.
+Board current: 38mA.
+ESP32 VDD while IR TX, OK minimal ripple 20mV.
+IR transmitter range?
+USB interface?
+IR transmitter functional?
+
+!User_SW is connected to JTAG MTMS with 10K pullup, test if it's affected.
+
+Switching IR led mosfet on/off at 1 sec.
+5V rail, standby current ~38mA
+IR LED turn on current ~380mA
+=> LED current = ~85mA / string
