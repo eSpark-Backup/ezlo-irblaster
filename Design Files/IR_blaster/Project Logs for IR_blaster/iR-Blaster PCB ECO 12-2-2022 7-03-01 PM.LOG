@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=5V Pin=LED3-1
+Removed Pin From Net: NetName=5V Pin=LED5-1
+Removed Pin From Net: NetName=5V Pin=LED7-1
+Removed Pin From Net: NetName=5V Pin=LED9-1
+Change Component Library : Designator=LED3 Old Library=eSpark_centralized_Library(2022).IntLib New Library=Centralize.SchLib
+Change Component Library : Designator=LED4 Old Library=eSpark_centralized_Library(2022).IntLib New Library=Centralize.SchLib
+Change Component Library : Designator=LED5 Old Library=eSpark_centralized_Library(2022).IntLib New Library=Centralize.SchLib
+Change Component Library : Designator=LED6 Old Library=eSpark_centralized_Library(2022).IntLib New Library=Centralize.SchLib
+Change Component Library : Designator=LED7 Old Library=eSpark_centralized_Library(2022).IntLib New Library=Centralize.SchLib
+Change Component Library : Designator=LED8 Old Library=eSpark_centralized_Library(2022).IntLib New Library=Centralize.SchLib
+Change Component Library : Designator=LED9 Old Library=eSpark_centralized_Library(2022).IntLib New Library=Centralize.SchLib
+Change Component Library : Designator=LED10 Old Library=eSpark_centralized_Library(2022).IntLib New Library=Centralize.SchLib
+Added Pin To Net: NetName=5V Pin=LED3-2
+Added Pin To Net: NetName=5V Pin=LED5-2
+Added Pin To Net: NetName=5V Pin=LED7-2
+Added Pin To Net: NetName=5V Pin=LED9-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED4-2
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R5-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED6-2
+Added Net: Name=NetLED5_1
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R6-2
+Added Net: Name=NetLED6_1
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_1 Pin=LED8-2
+Added Net: Name=NetLED7_1
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R7-2
+Added Net: Name=NetLED8_1
+Added Pin To Net: NetName=NetLED9_1 Pin=LED9-1
+Added Pin To Net: NetName=NetLED9_1 Pin=LED10-2
+Added Net: Name=NetLED9_1
+Added Pin To Net: NetName=NetLED10_1 Pin=LED10-1
+Added Pin To Net: NetName=NetLED10_1 Pin=R8-2
+Added Net: Name=NetLED10_1

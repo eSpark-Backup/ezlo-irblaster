@@ -1,4 +1,4 @@
-Record=TopLevelDocument|FileName=Connector_Section.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Connector_Section.SchDoc|FileName=Controller_Section.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Connector_Section.SchDoc|FileName=iR-Blaster_Section.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Connector_Section.SchDoc|FileName=iR_Receiver_Section.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=Controller_Section.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Controller_Section.SchDoc|FileName=iR-Blaster_Section.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Controller_Section.SchDoc|FileName=iR_Receiver_Section.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Controller_Section.SchDoc|FileName=USB & LDO_Section.SchDoc|SheetNumber=4
