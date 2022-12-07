@@ -1,0 +1,15 @@
+Added Component: Designator=J2(AFC10-S06PCA-00)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JUSHUO-AFC10-S06PCA-00_C2764200.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C2764200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JUSHUO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AFC10-S06PCA-00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD,P=1mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=TXD_ Pin=J2-3
+Added Pin To Net: NetName=RXD_ Pin=J2-4
+Added Pin To Net: NetName=IO4_ Pin=J2-5
+Added Pin To Net: NetName=EN_ Pin=J2-6
+Added Member To Class: ClassName=Controller_Section Member=Component J2 AFC10-S06PCA-00

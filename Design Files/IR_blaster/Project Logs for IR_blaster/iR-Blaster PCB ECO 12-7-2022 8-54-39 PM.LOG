@@ -1,0 +1,8 @@
+Added Component: Designator=J2(Voltlink Target)
+Added Pin To Net: NetName=3V3 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=TXD_ Pin=J2-3
+Added Pin To Net: NetName=RXD_ Pin=J2-4
+Added Pin To Net: NetName=IO4_ Pin=J2-5
+Added Pin To Net: NetName=EN_ Pin=J2-6
+Added Member To Class: ClassName=Controller_Section Member=Component J2 Voltlink Target

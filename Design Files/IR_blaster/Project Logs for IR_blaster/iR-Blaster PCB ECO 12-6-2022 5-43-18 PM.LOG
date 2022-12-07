@@ -1,0 +1,44 @@
+Added Component: Designator=R5(Res_1210)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_FOJAN-FRC1210F27R0TS_C2960734.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C2960734"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC1210F27R0TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Res_1210)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_FOJAN-FRC1210F27R0TS_C2960734.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C2960734"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC1210F27R0TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Res_1210)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_FOJAN-FRC1210F27R0TS_C2960734.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C2960734"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC1210F27R0TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Res_1210)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Chip-span-style-background-color-ff0-Resistor-span-Surface-Mount_FOJAN-FRC1210F27R0TS_C2960734.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C2960734"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FOJAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FRC1210F27R0TS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ1_3 Pin=R5-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R5-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R6-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R7-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R7-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R8-1
+Added Pin To Net: NetName=NetLED10_1 Pin=R8-2
+Added Member To Class: ClassName=iR-Blaster_Section Member=Component R5 27R
+Added Member To Class: ClassName=iR-Blaster_Section Member=Component R6 27R
+Added Member To Class: ClassName=iR-Blaster_Section Member=Component R7 27R
+Added Member To Class: ClassName=iR-Blaster_Section Member=Component R8 27R
