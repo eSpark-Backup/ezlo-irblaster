@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\GitHub\ezlo-irblaster\Design Files\IR_blaster\iR-Blaster.PcbDoc
+PCB File : C:\Users\XPENDER\Documents\GitHub\ezlo-irblaster\Design Files\IR_blaster\iR-Blaster.PcbDoc
 Date     : 12/8/2022
-Time     : 5:40:35 PM
+Time     : 8:24:02 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -21,7 +21,7 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=0mil) (All),(All)
