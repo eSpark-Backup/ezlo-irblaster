@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=LED7 Old Footprint=IR333-A Cut New Footprint=IR333_A
+Change Component Footprint: Designator=LED8 Old Footprint=IR333-A Cut New Footprint=IR333_A
+Added Member To Class: ClassName=iR-Blaster_Section Member=Component LED7 IR333-A
+Added Member To Class: ClassName=iR-Blaster_Section Member=Component LED8 IR333-A
+Added Member To Class: ClassName=iR-Blaster_Section Member=Component LED10 IR333-A

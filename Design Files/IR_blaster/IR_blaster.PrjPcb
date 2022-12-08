@@ -131,6 +131,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWMGFWWM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for IR_blaster\Design Rule Check - iR-Blaster.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

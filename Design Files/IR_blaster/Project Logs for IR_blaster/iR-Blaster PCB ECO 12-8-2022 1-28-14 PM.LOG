@@ -1,0 +1,32 @@
+Add Component: Footprint Not Found IR333_A
+Add Component: Footprint Not Found IR333_A
+Add Component: Footprint Not Found IR333_A
+Add Component: Footprint Not Found IR333_A
+Add Component: Footprint Not Found IR333_A
+Add Component: Footprint Not Found IR333_A
+Add Component: Footprint Not Found IR333_A
+Add Component: Footprint Not Found IR333_A
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED5-1
+Add Pin To Net: Unknown Pin: Pin LED7-1
+Add Pin To Net: Unknown Pin: Pin LED9-1
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=R5-2
+Added Net: Name=NetLED4_2
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_2 Pin=R6-2
+Added Net: Name=NetLED6_2
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=NetLED8_2 Pin=R7-2
+Added Net: Name=NetLED8_2
+Added Net: Name=NetLED9_2
+Added Pin To Net: NetName=NetLED10_2 Pin=R8-2
+Added Net: Name=NetLED10_2
+Add Class Member: Failed to add class member : Component LED3 IR333-A
+Add Class Member: Failed to add class member : Component LED4 IR333-A
+Add Class Member: Failed to add class member : Component LED5 IR333-A
+Add Class Member: Failed to add class member : Component LED6 IR333-A
+Add Class Member: Failed to add class member : Component LED7 IR333-A
+Add Class Member: Failed to add class member : Component LED8 IR333-A
+Add Class Member: Failed to add class member : Component LED9 IR333-A
+Add Class Member: Failed to add class member : Component LED10 IR333-A
