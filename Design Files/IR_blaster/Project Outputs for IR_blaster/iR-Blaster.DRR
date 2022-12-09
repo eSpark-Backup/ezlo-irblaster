@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: iR-Blaster.PcbDoc   12/9/2022  9:14:56 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : iR-Blaster-RoundHoles.TXT
+ASCII SlotHoles File : iR-Blaster-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             59        PTH        9.16inch (232.63mm)
+T2      24mil (0.6mm)                                             Slot              4         PTH        1.50inch (38.19mm)
+T3      32mil (0.8mm)                                             Round             2         PTH        0.30inch (7.50mm)
+T4      35mil (0.9mm)                                             Round             19        PTH        6.81inch (172.99mm)
+T5      24mil (0.62mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+T6      35mil (0.9mm)                                             Round             2         NPTH       0.09inch (2.30mm)
+T7      46mil (1.16mm)                                            Round             2         NPTH       2.09inch (53.15mm)
+T8      87mil (2.2mm)                                             Round             2         NPTH       1.40inch (35.46mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              92
+
+Total Processing Time (hh:mm:ss) : 00:00:00
