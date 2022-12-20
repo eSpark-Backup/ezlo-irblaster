@@ -1,3 +1,3 @@
-Layer Pairs Export File for PCB: C:\Users\LiberDB\Documents\GitHub\ezlo-irblaster\Design Files\IR_blaster\iR-Blaster.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=ir-blaster-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
-LayersSetName=Top_Bot_Slot_Holes|DrillFile=ir-blaster-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+Layer Pairs Export File for PCB: C:\Users\LiberDB\Documents\GitHub\ezlo-irblaster\ezlo-irblaster\Design Files\iR-Blaster.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ir-blaster-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ir-blaster-slotholes.txt|DrillLayers=gtl,gbl

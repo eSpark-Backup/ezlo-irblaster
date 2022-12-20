@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\LiberDB\Documents\GitHub\ezlo-irblaster\Design Files\IR_blaster\iR-Blaster.PcbDoc
+DRC Rules Export File for PCB: C:\Users\LiberDB\Documents\GitHub\ezlo-irblaster\ezlo-irblaster\Design Files\iR-Blaster.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
