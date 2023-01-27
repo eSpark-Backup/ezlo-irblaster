@@ -1,24 +1,24 @@
 Altium Designer Pick and Place Locations
-C:\Users\LiberDB\Documents\GitHub\ezlo-irblaster\ezlo-irblaster\Design Files\Project Outputs for IR_blaster\Pick Place for iR-Blaster.csv
+C:\Users\XPENDER\Documents\GitHub\ezlo-irblaster\Design Files\Project Outputs for IR_blaster\Pick Place for iR-Blaster.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       23/12/22
-Time:       17:34
-Revision:   a5950fcd314d8a69f58eb9897112d98707b2c570
+Date:       27/01/23
+Time:       19:50
+Revision:   371b40c60749d5de4582bb453eba7fdaf88a2eeb
 Variant:    No variations
 Units used: mm
 
 "Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
-"LED7","TopLayer","46,0100mm","32,9788mm","135","46,0100mm","32,9788mm","45,1120mm","33,8768mm"
-"LED8","TopLayer","46,0100mm","-0,2712mm","45","46,0100mm","-0,2712mm","46,9080mm","0,6268mm"
+"LED7","TopLayer","46,0100mm","32,9788mm","135","46,0100mm","32,9788mm","46,9080mm","32,0808mm"
+"LED8","TopLayer","46,0100mm","-0,2712mm","45","46,0100mm","-0,2712mm","45,1120mm","-1,1692mm"
 "LED10","TopLayer","29,2500mm","-0,2712mm","0","29,2500mm","-0,2712mm","27,9800mm","-0,2712mm"
 "LED9","TopLayer","12,4900mm","-0,2712mm","315","12,4900mm","-0,2712mm","11,5920mm","0,6268mm"
 "LED6","TopLayer","12,4900mm","32,9788mm","225","12,4900mm","32,9788mm","13,3880mm","33,8768mm"
 "LED5","TopLayer","29,2500mm","32,9788mm","180","29,2500mm","32,9788mm","30,5200mm","32,9788mm"
 "LED4","TopLayer","25,5016mm","22,2388mm","90","25,5016mm","22,2388mm","25,5016mm","20,9688mm"
-"LED3","TopLayer","25,5016mm","10,5388mm","270","25,5016mm","10,5388mm","25,5016mm","9,2688mm"
+"LED3","TopLayer","25,5016mm","10,5388mm","270","25,5016mm","10,5388mm","25,5016mm","11,8088mm"
 "J2","TopLayer","37,5000mm","-1,0591mm","180","37,5000mm","-1,0591mm","40,0000mm","0,2034mm"
 "C12","TopLayer","10,5156mm","18,5928mm","90","10,5156mm","18,5928mm","10,5156mm","18,1229mm"
 "C11","TopLayer","10,4902mm","15,7226mm","270","10,4902mm","15,7226mm","10,4902mm","16,1925mm"
