@@ -148,117 +148,87 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
-DocumentPath=Gerber Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=NC Drill Files.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster-RoundHoles.TXT
+DocumentPath=Project Outputs for IR_blaster\Design Rule Check - iR-Blaster.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster-SlotHoles.TXT
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.DRR
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.EXTREP
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GBL
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GBO
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GBP
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GBS
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GD1
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GG1
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GM2
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GPB
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GPT
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GTL
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GTO
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GTP
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GTS
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.LDP
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for IR_blaster\iR-Blaster.REP
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=Project Outputs for IR_blaster\iR-Blaster.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
 DocumentPath=Project Outputs for IR_blaster\iR-Blaster.RUL
 DItemRevisionGUID=
 
